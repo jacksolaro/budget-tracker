@@ -1,1 +1,2 @@
-console.log("Cha Ching! You're up and running!")
+self.addEventListener('fetch', function(event){
+});
